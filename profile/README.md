@@ -1,6 +1,6 @@
 # DBDUnlocker: Automatic Dead By Daylight DLC Unlocker & Activator
 
-**DBDUnlocker** is a tool that automatically activates DLCs in Rimworld.
+**DBDUnlocker** is a tool that automatically activates Skins, Characters, Perks & Items in Dead by Daylight.
 
 ---
 
